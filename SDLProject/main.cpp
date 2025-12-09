@@ -1,11 +1,6 @@
 /**
-* Author: [Rafid Ahmed]
-* Assignment: [Escaper]
-* Date due: [05/02], 2:00pm
-* I pledge that I have completed this assignment without
-* collaborating with anyone else, in conformance with the
-* NYU School of Engineering Policies and Procedures on
-* Academic Misconduct.
+Rafid Ahmed
+Escaper Video Game
 **/
 
 
