@@ -1,11 +1,11 @@
-**Escaper Game**
+# **Escaper Game**
 
 A top-down dungeon survival game built in C++ using SDL2 and OpenGL/GLSL. This project features multi-scene gameplay, animated player sprites, dungeon-style levels, sound effects, and background music.
 
 <br> 
 <br>
 
-**Features:**
+## **Features:**
 
 - Multi-scene system (Menu, Main, Dungeon, Win, Lose)
 
@@ -22,7 +22,7 @@ A top-down dungeon survival game built in C++ using SDL2 and OpenGL/GLSL. This p
 <br> 
 <br>
 
-**Technologies Used:**
+## **Technologies Used:**
 
 - C++
 
@@ -39,9 +39,9 @@ A top-down dungeon survival game built in C++ using SDL2 and OpenGL/GLSL. This p
 <br> 
 <br>
 
-**Controls:**
+## **Controls:**
 
-**Player:**
+### **Player:**
 
 - Left Arrow – Move Left
 
@@ -56,7 +56,7 @@ A top-down dungeon survival game built in C++ using SDL2 and OpenGL/GLSL. This p
 <br>
 <br>
 
-**Extra Mechanics:**
+## **Extra Mechanics:**
 
 - Multiple dungeon levels
 
@@ -67,7 +67,7 @@ A top-down dungeon survival game built in C++ using SDL2 and OpenGL/GLSL. This p
 <br>
 <br>
 
-**Game Rules:**
+## **Game Rules:**
 
 - Navigate through dungeons to survive.
 
@@ -80,7 +80,7 @@ A top-down dungeon survival game built in C++ using SDL2 and OpenGL/GLSL. This p
 <br>
 <br>
 
-**Project Structure:**
+## **Project Structure:**
 
 - /project-root
 
@@ -123,16 +123,16 @@ A top-down dungeon survival game built in C++ using SDL2 and OpenGL/GLSL. This p
 <br>
 <br>
 
-**How to Run:**
+## **How to Run:**
 
-**Prerequisites:**
+### **Prerequisites:**
 
 - Install SDL2, OpenGL, GLM, and SDL_mixer.
 
-**Build (example using g++):**
+### **Build (example using g++):**
 
 - g++ main.cpp *.cpp -lSDL2 -lSDL2_mixer -lOpenGL -ldl -o escaper
 
-**Run:**
+### **Run:**
 
 - ./escaper
